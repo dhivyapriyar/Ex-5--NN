@@ -2,7 +2,7 @@
 ## ENTER YOUR REGISTER NO.: 212222230032
 ## EX. NO.5
 ## DATE:
-## Implementation of XOR  using RBF
+# EX 05 Implementation of XOR  using RBF
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
 
